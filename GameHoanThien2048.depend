@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680012067 source:c:\users\huy\onedrive\desktop\coding\gamehoanthien2048\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
